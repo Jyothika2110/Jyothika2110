@@ -20,6 +20,10 @@
 
 ## 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,jenkins,vscode,idea,postman,mysql" />
+</p>
+
 ### Languages
 - Java
 - SQL
@@ -88,8 +92,29 @@ A Spring Boot based backend application for managing students, companies, placem
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/busipoina-jyothika-761471253
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyothika2110&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothika2110&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jyothika2110&theme=tokyonight"/>
+</p>
 ---
 
-⭐ *"Learning never stops. Every project is a step closer to becoming a better developer."*
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Jyothika2110&style=for-the-badge)
+
+## 💭 Developer Quote
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/busipoina-jyothika-761471253
+- 📧 Email: jyothikabusipoina@gmail.com
