@@ -1,6 +1,6 @@
 # Hi 👋, I'm Busipoina Jyothika
 
-### 🚀 Aspiring Java Backend Developer
+## Java Backend Developer | Spring Boot | Hibernate | REST APIs | Continuously Learning & Building
 
 💻 Passionate about building scalable backend applications using **Java** and **Spring Boot**.
 
@@ -94,16 +94,13 @@ A Spring Boot based backend application for managing students, companies, placem
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyothika2110&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothika2110&layout=compact&theme=tokyonight" height="170"/>
-</p>
+![Jyothika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyothika2110&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothika2110&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jyothika2110&theme=tokyonight"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyothika2110&theme=tokyonight)
 ---
 
 ## 👀 Profile Views
