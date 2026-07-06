@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Busipoina Jyothika
 
-<!--
-**Jyothika2110/Jyothika2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Backend Developer
 
-Here are some ideas to get you started:
+💻 Passionate about building scalable backend applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Spring Boot
+- Hibernate
+- REST APIs
+- Jenkins
+- Git & GitHub
+
+🚀 Current Project
+- Placement Management System
+
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- Hibernate
+- SQL
+- Oracle
+- Maven
+- Git
+- Jenkins
+- JIRA
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/busipoina-jyothika-761471253
+
+⭐ Thanks for visiting my profile!
